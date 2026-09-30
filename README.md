@@ -14,7 +14,7 @@ A modern portfolio with a glassmorphism design, smooth interactions, and a focus
 
 <a href="https://suleman-portfolio-one.vercel.app/"><strong>🌐 Explore My Portfolio</strong></a>
 &nbsp; • &nbsp;
-<a href="https://github.com/suleman1608"><strong>💻 GitHub Profile</strong></a>
+<a href="https://github.com/Smulani2004"><strong>💻 GitHub Profile</strong></a>
 
 </div>
 
